@@ -1,0 +1,41 @@
+baseURL = "http://jmvb.xyz/"
+languageCode = "en-us"
+title = "jmvb.xyz"
+
+theme = "cactus"
+
+[params]
+  colortheme = "white" 
+  css = ["css/custom.css"]
+  description = "I blog about what I struggled to understand. When I write about something, it force me to ask the hard questions, it helps to offload the cognitive load so I can build a mental model. When I try to explain my comprehension of something to the anonymous reader, it helps me to see the bigger picture. It is extremely hard at first, symptomatic that I don't master yet the topic. It is a journey, back and forth, from the machine to the text. Sometimes, I will loose the battle, and accept to come back to it later. And sometimes, I will be able to slow down and think clearly about it."
+  mainSection = "posts"
+  howAllPostsOnHomePage = true
+  rss = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/jeremybaumont"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/rodeeend"
