@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://jmvb.xyz/categories/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/tags/dnslinux/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/posts/linux-host-name-resolution/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/posts/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/categories/system/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/tags/</loc>
+    <lastmod>2021-07-27T19:57:42+10:00</lastmod>
+  </url><url>
+    <loc>http://jmvb.xyz/about/</loc>
+    <lastmod>2021-07-27T18:38:09+10:00</lastmod>
+  </url>
+</urlset>
