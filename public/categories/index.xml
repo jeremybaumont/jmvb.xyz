@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on jmvb.xyz</title>
-    <link>http://jmvb.xyz/categories/</link>
+    <link>https://jmvb.xyz/categories/</link>
     <description>Recent content in Categories on jmvb.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 19:57:42 +1000</lastBuildDate><atom:link href="http://jmvb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 19:57:42 +1000</lastBuildDate><atom:link href="https://jmvb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>system</title>
-      <link>http://jmvb.xyz/categories/system/</link>
+      <link>https://jmvb.xyz/categories/system/</link>
       <pubDate>Tue, 27 Jul 2021 19:57:42 +1000</pubDate>
       
-      <guid>http://jmvb.xyz/categories/system/</guid>
+      <guid>https://jmvb.xyz/categories/system/</guid>
       <description></description>
     </item>
     
