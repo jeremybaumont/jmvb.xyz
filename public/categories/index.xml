@@ -5,16 +5,6 @@
     <link>https://jmvb.xyz/categories/</link>
     <description>Recent content in Categories on jmvb.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 19:57:42 +1000</lastBuildDate><atom:link href="https://jmvb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>system</title>
-      <link>https://jmvb.xyz/categories/system/</link>
-      <pubDate>Tue, 27 Jul 2021 19:57:42 +1000</pubDate>
-      
-      <guid>https://jmvb.xyz/categories/system/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://jmvb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

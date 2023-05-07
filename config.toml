@@ -44,5 +44,9 @@ weight = 4
   link = "https://github.com/jeremybaumont"
 
 [[params.social]]
+  name = "email"
+  link = "i9ijfmq6k@mozmail.com"
+
+[[params.social]]
   name = "mastodon"
   link = "https://hachyderm.io/@rodeeend"
