@@ -7,7 +7,14 @@ theme = "cactus"
 [params]
   colortheme = "white" 
   css = ["css/custom.css"]
-  description = "I blog about what I struggled to understand. When I write about something, it force me to ask the hard questions, it helps to offload the cognitive load so I can build a mental model. When I try to explain my comprehension of something to the anonymous reader, it helps me to see the bigger picture. It is extremely hard at first, symptomatic that I don't master yet the topic. It is a journey, back and forth, from the machine to the text. Sometimes, I will loose the battle, and accept to come back to it later. And sometimes, I will be able to slow down and think clearly about it."
+  description = """
+  In this blog, I embark on a quest to unravel the complexities 
+  I once struggled to comprehend. By writing about these subjects, 
+  I am compelled to confront challenging questions head-on. 
+  This process helps alleviate the cognitive load, enabling me to construct 
+  a clearer mental model. Articulating my understanding to an anonymous 
+  reader allows me to gain a broader perspective, revealing the bigger picture. 
+  """
   mainSection = "posts"
   howAllPostsOnHomePage = true
   rss = true
@@ -37,5 +44,5 @@ weight = 4
   link = "https://github.com/jeremybaumont"
 
 [[params.social]]
-  name = "twitter"
-  link = "https://twitter.com/rodeeend"
+  name = "mastodon"
+  link = "https://hachyderm.io/@rodeeend"
