@@ -1,3 +1,9 @@
 [submodule "themes/cactus"]
 	path = themes/cactus
 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "themes/hugo-toigian"]
+	path = themes/hugo-toigian
+	url = https://github.com/ntk148v/hugo-toigian.git
+[submodule "themes/devise"]
+	path = themes/devise
+	url = https://github.com/austingebauer/devise.git

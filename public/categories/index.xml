@@ -5,6 +5,7 @@
     <link>https://jmvb.xyz/categories/</link>
     <description>Recent content in Categories on jmvb.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jmvb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023, Jeremy Baumont</copyright><atom:link href="https://jmvb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

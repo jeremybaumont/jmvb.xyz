@@ -1,52 +1,48 @@
 baseURL = "https://jmvb.xyz/"
 languageCode = "en-us"
 title = "jmvb.xyz"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; 2023, Jeremy Baumont"
 
-theme = "cactus"
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = -100
 
+# Configuration Features
 [params]
-  colortheme = "white" 
-  css = ["css/custom.css"]
-  description = """
-  In this blog, I embark on a quest to unravel the complexities 
-  I once struggled to comprehend. By writing about these subjects, 
-  I am compelled to confront challenging questions head-on. 
-  This process helps alleviate the cognitive load, enabling me to construct 
-  a clearer mental model. Articulating my understanding to an anonymous 
-  reader allows me to gain a broader perspective, revealing the bigger picture. 
-  """
-  mainSection = "posts"
-  howAllPostsOnHomePage = true
-  rss = true
+  description = "In this blog, I embark on a quest to unravel the complexities I once struggled to comprehend. By writing about these subjects, I am compelled to confront challenging questions. "
+  header_title = "Jeremy Baumont"                 # Your header title
+  header_subtitle = "Be kind, don't give up, complain less and share credits." # Your header subtitle
+  home_image = "/images/rodeeend.png"          # Path to header image starting from the static directory (optional)
+  recent_posts = 5                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    homeImageBorderColor = "#ffffff"
+    fontFamilyBase = "Helvetica Neue"        # First-choice font
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "http://github.com/jeremybaumont"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-mastodon fa-1x"
+    href = "https://hachyderm.io/@rodeeend"
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "i9ijfmq6k@mozmail.com"
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
-
-[[params.social]]
-  name = "github"
-  link = "https://github.com/jeremybaumont"
-
-[[params.social]]
-  name = "email"
-  link = "i9ijfmq6k@mozmail.com"
-
-[[params.social]]
-  name = "mastodon"
-  link = "https://hachyderm.io/@rodeeend"
