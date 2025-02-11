@@ -2,10 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jmvb.xyz</title>
-    <link>https://jmvb.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on jmvb.xyz</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023, Jeremy Baumont</copyright><atom:link href="https://jmvb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2025, Jeremy Baumont</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 11:34:09 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 11 Feb 2025 11:34:09 +1000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-this-blog&#34;&gt;About this blog&lt;/h2&gt;&#xA;&lt;p&gt;Learn and discuss about networks, operating systems, programming.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;You can contact me on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;on &lt;a href=&#34;https://hachyderm.io/@rodeeend&#34;&gt;Mastodon&lt;/a&gt;,&lt;/li&gt;&#xA;&lt;li&gt;on &lt;a href=&#34;https://web.libera.chat/&#34;&gt;IRC&lt;/a&gt;, I am &lt;code&gt;rod333nd&lt;/code&gt; nickname,&lt;/li&gt;&#xA;&lt;li&gt;by &lt;a href=&#34;i9ijfmq6k@mozmail.com&#34;&gt;email&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
